@@ -10,8 +10,7 @@
         valor do limite disponível na conta
     
     Esquema do Cenario: Testar saque e deposito
-      Dado a conta criada para o dono "<dono>" de numero <numero> 
-       com o limite <limite> e saldo <saldo>
+      Dado a conta criada para o dono <dono> de numero <numero> com o limite <limite> e saldo <saldo>
       Quando o dono realiza o deposito no valor de <deposito> na conta
       E o dono realiza o primeiro saque no valor de <primeiro_saque> na conta
       E o dono realiza o segundo saque no valor de <segundo_saque> na conta

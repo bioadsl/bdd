@@ -1,5 +1,7 @@
 package cucumber.modelo;
 
+import java.util.List;
+
 public class Banco {
     
     private String nome;
